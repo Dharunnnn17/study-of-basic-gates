@@ -80,7 +80,7 @@ endmodule
 ```
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: 
+ Developed by: DHARUN ARULSELVAN
  
  RegisterNumber: 212224220024
  
